@@ -1,3 +1,4 @@
 1. go through several articles and forums of cuda and related issues like [here](https://forums.developer.nvidia.com/t/multiple-cuda-versions-can-they-coexist/22272), 
 2. [get insight about .bashrc file](https://unix.stackexchange.com/questions/129143/what-is-the-purpose-of-bashrc-and-how-does-it-work)
 3. [another bashrc](https://www.journaldev.com/41479/bashrc-file-in-linux#:~:text=bashrc%20file%20is%20a%20script,won't%20show%20the%20file.)
+4. soft link and hard link of making folder link
